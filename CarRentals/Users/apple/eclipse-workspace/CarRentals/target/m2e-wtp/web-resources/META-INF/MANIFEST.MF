@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CarRentals
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nanosoft
+Implementation-Vendor-Id: com.nanosoftz
+Build-Jdk: 1.8.0_141
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CarRentals
+Created-By: Maven Integration for Eclipse
+
